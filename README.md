@@ -240,4 +240,4 @@ This repository serves as the official landing page for Arknights. The software 
 ---
 
 ---
-**Last updated:** 2026-09-11 10:14:34 UTC
+**Last updated:** 2026-09-11 14:42:26 UTC
